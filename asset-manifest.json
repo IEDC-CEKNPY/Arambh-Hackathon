@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Arambh-Hackathon/static/css/main.e6868da8.css",
-    "main.js": "/Arambh-Hackathon/static/js/main.1faf89a7.js",
+    "main.css": "/Arambh-Hackathon/static/css/main.76be8f49.css",
+    "main.js": "/Arambh-Hackathon/static/js/main.25c7e89c.js",
     "static/media/moon.png": "/Arambh-Hackathon/static/media/moon.73697ab9c7fb2a76d09f.png",
     "static/media/pattern4.png": "/Arambh-Hackathon/static/media/pattern4.d70898849577572cae6e.png",
     "static/media/glimpse.png": "/Arambh-Hackathon/static/media/glimpse.b6f31993d93b4c4d8647.png",
@@ -27,11 +27,11 @@
     "static/media/cross.svg": "/Arambh-Hackathon/static/media/cross.cdc3eebf5ca8c6bac1335574dfa6e894.svg",
     "static/media/ham-c.svg": "/Arambh-Hackathon/static/media/ham-c.8ab7632d2e8f5e05abfb112d11ada71d.svg",
     "static/media/ham.svg": "/Arambh-Hackathon/static/media/ham.a63ab4de035aef5e3f6e82283f1bae0a.svg",
-    "main.e6868da8.css.map": "/Arambh-Hackathon/static/css/main.e6868da8.css.map",
-    "main.1faf89a7.js.map": "/Arambh-Hackathon/static/js/main.1faf89a7.js.map"
+    "main.76be8f49.css.map": "/Arambh-Hackathon/static/css/main.76be8f49.css.map",
+    "main.25c7e89c.js.map": "/Arambh-Hackathon/static/js/main.25c7e89c.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6868da8.css",
-    "static/js/main.1faf89a7.js"
+    "static/css/main.76be8f49.css",
+    "static/js/main.25c7e89c.js"
   ]
 }
