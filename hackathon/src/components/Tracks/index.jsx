@@ -10,10 +10,17 @@ function TrackHeading(props) {
 
 function Tracks(props) {
   return (
+    <div className="Tracks">
     <div className="Track">
-      {props.icon}
-      <h2>{props.type}</h2>
-      <p>{props.content}</p>
+      <div className='Tra'>
+        
+      </div>
+      <div className='Tra2'>
+        {props.icon}
+        <h2>{props.type}</h2>
+        <p>{props.content}</p>
+      </div>
+    </div>
     </div>
   );
 }

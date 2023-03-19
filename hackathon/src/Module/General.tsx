@@ -189,16 +189,16 @@ const Trackinfo = [
   [
     //Array 1
     {
-      icon: <i className="first fas fa-4x fa-trophy"></i>,
-      type: 'Track1',
+      icon: <i className="first fas fa-4x fa-book"></i>,
+      type: 'Education',
       content:
-        'First Overall prize will be given to a project that outstands all other submissions'
+        ''
     },
     {
-      icon: <i className=" second fas fa-4x fa-medal"></i>,
-      type: 'Track2',
+      icon: <i className=" second fas fa-4x fa-hand-holding-heart"></i>,
+      type: 'Healthcare',
       content:
-        'Second Overall prize will be given to the second best project of the hackathon'
+        ''
     },
   ],
 ];
@@ -207,16 +207,16 @@ const Tracksinfo = [
   [
     //Array 2
     {
-      icon: <i className=" third fas fa-4x fa-skiing-nordic"></i>,
-      type: 'Track3',
+      icon: <i className=" third fas fa-4x fa-cog"></i>,
+      type: 'Productivity & Networking',
       content:
-        'Best third overall project of the hackathon will win some awesome prizes'
+        ''
     },
     {
-      icon: <i className=" third fas fa-4x fa-skiing-nordic"></i>,
-      type: 'Track4',
+      icon: <i className=" fourth fas fa-4x fa-globe"></i>,
+      type: 'Environment Sustainability',
       content:
-        'Best third overall project of the hackathon will win some awesome prizes'
+        ''
     }
   ],
 ];
@@ -227,18 +227,53 @@ const Rulesinfo = [
     {
       
       content:
-        '1.'
+        '1. The team can consist of two to four members.'
     },
     {
     
       content:
-        '2.'
+        '2. Participants will be given a set of problem statements from which they are required to select one statement and build a hardware/software prototype.'
     },
     {
 
       content:
-        '3.'
-    }
+        '3. Hackaton will be conducted in two rounds where in the first round participants should submit an abstract on their product and for the second round the participants are required to submit their final product along with a presentation.'
+    },
+    {
+
+      content:
+        '4. Participants are required to submit the abstract within the first two hours and an evaluation will be conducted on every five hour gap.'
+    },
+    {
+
+      content:
+        '5. There will be no shortlisting since the participants are limited to twenty teams.'
+    },
+    {
+
+      content:
+        '6. Mentors will be assigned for participants.'
+    },
+    {
+
+      content:
+        '7. Participants should bring system and resources required for the hackathon.'
+    },
+    {
+
+      content:
+        '8. WiFi, power and accommodation facilities will be provided.'
+    },
+    {
+
+      content:
+        '9. what do I need to bring? A valid government-issued photo ID, laptop, phone, chargers etc.'
+    },
+    {
+
+      content:
+        '10. Any doubts? reach out to us at iedccek@gmail.com'
+    },
   ],
   
 ];

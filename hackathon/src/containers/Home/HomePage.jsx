@@ -159,8 +159,6 @@ export default function HomePage() {
         <Row className="tracksection" id="tracks">
           <TrackHeading type="Tracks" />
           {Trackinfo.map(TrackGroup)}
-        </Row>
-        <Row className="tracksection" id="tracks">
           {Tracksinfo.map(TrackGroup)}
         </Row>
 
@@ -168,9 +166,8 @@ export default function HomePage() {
         <Row className="rulesection" id="rules">
           <div class="sty">
           <RuleHeading type="Rules" />
-          </div>
+          </div>  
           {Rulesinfo.map(RulesGroup)}
-          
         </Row>
         {/* ********Rules ending here ***** */}
 
