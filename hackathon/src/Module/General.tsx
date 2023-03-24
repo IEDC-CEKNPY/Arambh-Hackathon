@@ -38,7 +38,7 @@ const TOP_SECTION = {
   Typed_effect: ['24 hours of creation', 'Win awesome prizes'],
   
   SHORT_DESCRIPTION:
-    'Join us on 1-2 April 2023 for the Arambh Hackathon, where you can collaborate with other fellow hackers and engage in 24 hours of creation, innovation, and fun.',
+    'Join us on 28-29 April 2023 for the Arambh Hackathon, where you can collaborate with other fellow hackers and engage in 24 hours of creation, innovation, and fun.',
   IMG_SRC: boy,
   DISCORD_LINK: '',
   JUDGES_FORM_LINK:
@@ -57,7 +57,7 @@ const SOCIALS = {
 const MIDDLE_SECTION = {
   TITLE: 'What is Arambh Hackathon?',
   LONG_DESCRIPTION:
-    'Arambh Hackathon, taking place on April 1-2, 2023, invites hackers, artists, coders, designers, tech enthusiasts, creatives, and developers from all backgrounds to join and compete for exciting prizes while collaborating with fellow participants. The event will provide a unique opportunity to learn from one another and experiment with new technologies, and aims to create an inclusive and diverse community of attendees.',
+    'Arambh Hackathon, taking place on April 28-29, 2023, invites hackers, artists, coders, designers, tech enthusiasts, creatives, and developers from all backgrounds to join and compete for exciting prizes while collaborating with fellow participants. The event will provide a unique opportunity to learn from one another and experiment with new technologies, and aims to create an inclusive and diverse community of attendees.',
   LOGO: hackathonLogo
 };
 
@@ -94,7 +94,7 @@ const calenderStartingDate = {
 
 const schedule = [
   {
-    day: '1-4-2023',
+    day: '28-4-2023',
     events: [
       {
         title: 'Arambh Hackathon',
@@ -104,7 +104,7 @@ const schedule = [
     ]
   },
   {
-    day: '2-4-2023',
+    day: '29-4-2023',
     events: [
       {
         title: 'Arambh Hackathon',

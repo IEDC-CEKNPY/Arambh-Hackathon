@@ -21,7 +21,7 @@ const About = () => {
       <h2>{TOP_SECTION.TITLE}</h2>
       <MytypedComponent />
       <CountdownTimer
-        targetDate={new Date('2023-04-01T10:30:00.999Z')}
+        targetDate={new Date('2023-04-28T10:30:00.999Z')}
         onExpire={() => console.log('Countdown expired!')}
         intervalDelay={1000}
       />
